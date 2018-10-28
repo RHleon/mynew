@@ -1,0 +1,2 @@
+"Hello, mynew!"
+for the first time.
